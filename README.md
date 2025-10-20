@@ -66,18 +66,6 @@ Los sponsors definieron los siguientes nombres y descripciones para las entidade
 
    - Entregar las colecciones necesarias para realizar pruebas (por ejemplo, colecciones de Postman o archivos JSON de ejemplo).
 
-###
-
-# Recomendaciones y ayudas
-
-Les entregamos este link que apunta a un front-end ya desarrollado para que puedan investigarlo y puedan crear el back-end que se ajuste lo maximo posiblel funcionamiento del front.
-
-[https://unahur.vmdigitai.com/redes-front/users](https://unahur.vmdigitai.com/redes-front/users)
-
-Por otro lado les dejamos la documentació de los endpoint para que también la puedan revisar y armar siguiendo este link
-
-[https://unahur.vmdigitai.com/swagger/](https://unahur.vmdigitai.com/swagger/)
-
 # Bonus
 
 - Hace el upload de las imganes que se asocian a un POST que lo guarden en una carpeta de imagenes dentro del servidor web.
